@@ -1793,6 +1793,10 @@ span.portfolio-hover a {
 	text-transform: none;
 }
 
+.timeline .timeline-heading h4.subheading a {
+    color: inherit;
+}
+
 .timeline .timeline-body > p,.timeline .timeline-body > ul {
 	margin-bottom: 0;
 }
