@@ -2000,3 +2000,15 @@ footer hr {
 .community_icon {
     font-size: 30px;
 }
+
+#btn_buynav {
+    line-height: 1;
+    color: #FFF;
+    margin-top: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#btn_buynav {
+    background-color: #e31e27;
+}
