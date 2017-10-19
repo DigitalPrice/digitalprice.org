@@ -1953,6 +1953,7 @@ footer hr {
     .big-logo { font-size:50px; }
     .jumbotron.jumbotron-register { height:initial; }
     .jumbotron.jumbotron-register h1 { font-size:40px; }
+    .fade-quote-carousel.carousel p { height: 120px; }
 }
 
 @media (min-width: 768px) {
@@ -1979,6 +1980,7 @@ footer hr {
 	.mt30-sm { margin-top:30px; }
 	.mb30-sm { margin-bottom:30px; }
     .jumbotron.jumbotron-register h1 { font-size:45px; }
+    .fade-quote-carousel.carousel p { height: 120px; }
 }
 
 @media (min-width:992px) {
